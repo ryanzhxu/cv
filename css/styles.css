@@ -171,9 +171,10 @@ a:hover {
 }
 
 .sfu-img {
-    width: 40%;
+    width: 20%;
     float: left;
     margin-right: 30px;
+    margin-bottom: 10px;
 }
 
 .pg-img {
