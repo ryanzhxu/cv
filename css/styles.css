@@ -72,6 +72,10 @@ a:hover {
     padding: 50px 0 20px;
 }
 
+.footer-link {
+    font-size: 1.10rem;
+}
+
 .BUTTON_NXY {
     background: #11CDD4;
     background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
@@ -173,8 +177,9 @@ a:hover {
 .sfu-img {
     width: 20%;
     float: left;
-    margin-right: 30px;
-    margin-bottom: 10px;
+    /* margin-right: 30px;
+    margin-bottom: 10px; */
+    margin: auto 30px 10px auto;
 }
 
 .pg-img {
